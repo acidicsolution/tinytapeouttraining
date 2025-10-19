@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Okay  but like why do I have to edit this 
+This would be a description of how this circuit works.
 
 ## How to test
 
-hello world i am sleepy
+If you are reading this, I am doing this for training purposes.
 
 ## External hardware
 
